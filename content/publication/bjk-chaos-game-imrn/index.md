@@ -1,14 +1,14 @@
 ---
 title: On the Convergence Rate of the Chaos Game
 authors:
-- Bal\'ś Bár\ńy
+- Balázs Bárány
 - Natalia Jurga
-- ́ Istv\'an Kolossv\'a
-date: '2023-01-01'
+- admin
+- date: '2023-01-01'
 publishDate: '2024-02-04T21:07:32.717092Z'
 publication_types:
 - article-journal
-publication: '*Int. Math. Res. Not.*'
+publication: '*Int. Math. Res. Not.* 2023(5), 4456-4500'
 doi: 10.1093/imrn/rnab370
 abstract: This paper studies how long it takes the orbit of the chaos game to reach
   a certain density inside the attractor of a strictly contracting IFS of which we
@@ -23,4 +23,6 @@ abstract: This paper studies how long it takes the orbit of the chaos game to re
 links:
 - name: URL
   url: https://doi.org/10.1093/imrn/rnab370
+- name: arXiv
+  url: https://browse.arxiv.org/abs/2102.02047
 ---
