@@ -1,0 +1,26 @@
+---
+title: On the Convergence Rate of the Chaos Game
+authors:
+- Bal\'ś Bár\ńy
+- Natalia Jurga
+- ́ Istv\'an Kolossv\'a
+date: '2023-01-01'
+publishDate: '2024-02-04T20:27:17.220296Z'
+publication_types:
+- article-journal
+publication: '*Int. Math. Res. Not.*'
+doi: 10.1093/imrn/rnab370
+abstract: This paper studies how long it takes the orbit of the chaos game to reach
+  a certain density inside the attractor of a strictly contracting IFS of which we
+  only assume that its lower dimension is positive. We show that the rate of growth
+  of this cover time is determined by the Minkowski dimension of the push-forward
+  of the shift invariant measure with exponential decay of correlations driving the
+  chaos game. Moreover, we bound the expected value of the cover time from above and
+  below with multiplicative logarithmic correction terms. As an application, for Bedford–McMullen
+  carpets, we completely characterise the family of probability vectors that minimise
+  the Minkowski dimension of Bernoulli measures. Interestingly, these vectors have
+  not appeared in any other aspect of Bedford–McMullen carpets before.
+links:
+- name: URL
+  url: https://doi.org/10.1093/imrn/rnab370
+---
