@@ -5,7 +5,7 @@ authors:
 - Natalia Jurga
 - admin
 - date: '2023-01-01'
-publishDate: '2024-02-04T21:07:32.717092Z'
+publishDate: ''
 publication_types:
 - article-journal
 publication: '*Int. Math. Res. Not.* 2023(5), 4456-4500'
