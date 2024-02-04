@@ -17,7 +17,7 @@ main:
     url: '#talks'
     weight: 40
   - name: CV
-    url: uploads/CV_IK_0124.pdf
+    url: uploads/CV_KI_0124.pdf
     weight: 50
   - name: Contact
     url: '#contact'
