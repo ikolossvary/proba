@@ -25,7 +25,7 @@ organizations:
     url: https://www.renyi.hu/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -93,7 +93,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:istvanko@renyi.hu"
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-István Kolossváry is a Marie Sklodowska-Curie Actions Postdoctoral Fellow at the Alfréd Rényi Institute of Mathematics. His main area of interest lies in the broad area of dynamical systems and more specifically the dimension theory of fractal sets and measures arising from various contexts. He has also worked on first passage percolation problems on random graphs before. 
+I am a research fellow in pure mathematics at the Alfréd Rényi Institute if Mathematics in Budapest, Hungary. I currently hold a Marie Sklodowska-Curie Actions Postdoctoral Fellowship titled `New Perspectives on` at the Alfréd Rényi Institute of Mathematics. His main area of interest lies in the broad area of dynamical systems and more specifically the dimension theory of fractal sets and measures arising from various contexts. He has also worked on first passage percolation problems on random graphs before. 
 {style="text-align: justify;"}

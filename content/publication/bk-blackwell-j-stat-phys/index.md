@@ -2,7 +2,7 @@
 title: On the absolute continuity of the Blackwell measure
 authors:
 - Balázs Bárány
-- István Kolossváry
+- admin
 date: '2015-01-01'
 publishDate: '2024-02-04T21:07:32.762140Z'
 publication_types:
