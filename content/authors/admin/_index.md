@@ -29,20 +29,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Fractal Geometry
+  - Geometric Measure Theory
+  - Random Graphs
 
 # Education to show in About widget
 education:
   courses:
-    - course: Doctoral School of Mathematics and Compter Science
+    - course: Doctoral School of Mathematics and Computer Science
       institution: Budapest University of Technology and Economics
       year: 2019
     - course: MSc in Applied Mathematics
       institution: Budapest University of Technology and Economics
       year: 2012
-    - course: BSc in MAthematics
+    - course: BSc in Mathematics
       institution: Budapest University of Technology and Economics
       year: 2009
 
@@ -94,15 +94,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#    label: Follow me on Twitter
+#    display:
+#      header: true
   - icon: google-scholar # Alternatively, use  'graduation-cap' icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=Ayy7DYoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-István Kolossváry is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+István Kolossváry is a Marie Sklodowska-Curie Actions Postdoctoral Fellow at the Alfréd Rényi Institute of Mathematics. His main area of interest lies in the broad area of dynamical systems and more specifically the dimension theory of fractal sets and measures arising from various contexts. He has also worked on first passage percolation problems on random graphs before. 
 {style="text-align: justify;"}
