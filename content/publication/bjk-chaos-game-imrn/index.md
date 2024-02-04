@@ -4,8 +4,8 @@ authors:
 - Balázs Bárány
 - Natalia Jurga
 - admin
-date: '2023-01-01'
-publishDate: '2023-01-01'
+date: '2023-03-01'
+publishDate: '2023-03-01'
 publication_types:
 - article-journal
 publication: '*Int. Math. Res. Not.* 2023(5), 4456-4500'
