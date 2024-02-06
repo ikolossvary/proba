@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -82,7 +82,7 @@ sections:
           location: St Andrews, Scotland
           date_start: '2019-09-01'
           date_end: '2023-12-28'
-          description: Member of.
+          description: Member of. ![EU funding logo](/images/EUfunding.png "EU funding logo")
     design:
       columns: '2'
   - block: accomplishments
