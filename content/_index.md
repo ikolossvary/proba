@@ -77,12 +77,12 @@ sections:
               * Deploying
         - title: Research Fellow
           company: University of St Andrews
-          company_url: ''
+          company_url: 'https://www.st-andrews.ac.uk/'
           company_logo: org-x
           location: St Andrews, Scotland
           date_start: '2019-09-01'
           date_end: '2023-12-28'
-          description: Member of. ![EU funding logo](/images/EUfunding.png "EU funding logo")
+          description: Member of the [Analysis Group](https://sta-analysis.github.io/), funded by a Leverhulme Trust Research Project Grant (RPG-2019-034).
     design:
       columns: '2'
   - block: accomplishments
