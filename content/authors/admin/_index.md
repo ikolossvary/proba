@@ -103,12 +103,15 @@ social:
   - icon: google-scholar # Alternatively, use  'graduation-cap' icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=Ayy7DYoAAAAJ
+  - icon: arxiv
+    icon_pack: ai
+    link: https://arxiv.org/search/math?query=Kolossv%C3%A1ry%2C+I+&searchtype=author&abstracts=show&order=-announced_date_first&size=50
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-2216-305X
   - icon: github
     icon_pack: fab
     link: https://github.com/ikolossvary
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-I am a research fellow in pure mathematics at the Alfréd Rényi Institute if Mathematics in Budapest, Hungary. I currently hold a Marie Sklodowska-Curie Actions Postdoctoral Fellowship titled `New Perspectives on` at the Alfréd Rényi Institute of Mathematics. His main area of interest lies in the broad area of dynamical systems and more specifically the dimension theory of fractal sets and measures arising from various contexts. He has also worked on first passage percolation problems on random graphs before. 
+I am a research fellow in pure mathematics at the Alfréd Rényi Institute of Mathematics in Budapest, Hungary. I currently hold a Marie Sklodowska-Curie Actions Postdoctoral Fellowship titled *New perspectives on the box counting dimension of sets and measures* at the Alfréd Rényi Institute of Mathematics. My main area of interest lies in the broad area of dynamical systems and more specifically the dimension theory of fractal sets and measures arising from various contexts. I have also worked on first passage percolation problems on random graphs before. 
 {style="text-align: justify;"}
