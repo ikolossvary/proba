@@ -80,7 +80,7 @@ sections:
         - title: Research Fellow
           company: University of St Andrews
           company_url: 'https://www.st-andrews.ac.uk/'
-          company_logo: org-x
+          company_logo: UStA_logo
           location: St Andrews, Scotland
           date_start: '2019-09-01'
           date_end: '2023-12-28'
