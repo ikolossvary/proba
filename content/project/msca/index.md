@@ -45,3 +45,5 @@ whose convergence rate is determined by the box dimension of the measure driving
 The project is funded by the HORIZON-MSCA-2022-PF-01-01 Grant agreement ID: [101109013](https://cordis.europa.eu/project/id/101109013). See the [European Commission page](https://marie-sklodowska-curie-actions.ec.europa.eu/) for more details of the scheme.
 
 {{< figure src="EUfunding.png" caption="" width="30%" float="none">}}{{< figure src="mariecurie.jpg" caption="" width="26%" >}}
+
+![EU flag](EUfunding.png "" =30%x) ![EU flag](mariecurie.jpg "" =26%x) 
