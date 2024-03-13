@@ -34,20 +34,12 @@ external_link: ''
 This webpage collects all proffesional activities conducted during my Marie Sklodowska-Curie Actions Postdoctoral Fellowship titled *New perspectives on the box counting dimension of sets and measures* starting Jan. 1, 2024.
 
 {{< spoiler text="Abstract" >}}
-Fractal geometry is a young, very active and rapidly growing field of research that is connected to different areas of mathematics and 
-the natural sciences. Roughly speaking, dimension theory is concerned with measuring the ‘size’ of sets by defining different notions 
-of dimension. At the center of NewBoxDim is the box counting dimension which is a fundamental concept within mathematics that 
-has found applications outside of mathematics as well. The main objective of NewBoxDim is to open new perspectives on the study 
-of the box dimension of sets and measures by exploring three very recent alternative approaches. In the first approach, the goal is to 
-develop unifying machinery based on thermodynamic formalism in order to tackle a long-standing open problem about the 
-existence of the box dimension of self-affine sets. In the second approach, we aim to fuse ideas from dimension theory and methods 
-from percolation theory in a novel way to study the fine scale structure and connectivity properties of different fractal percolation 
-models. The third and final objective of NewBoxDim is to advance our understanding about the time evolution of the chaos game 
-whose convergence rate is determined by the box dimension of the measure driving this stochastic point process. We aim to obtain 
-more nuanced information by making an interesting connection to the L^q spectrum (also known as generalized fractal dimensions) 
-of the measure and characterizing the measure which minimizes its box dimension. As an interdisciplinary application, our results on 
-the chaos game could have a direct impact on the Chaos Game Representation (and its variants) which is a method that was 
-developed to analyze genomic sequences in bioinformatics.
+Fractal geometry is a young, very active and rapidly growing field of research that is connected to different areas of mathematics and the natural sciences. Roughly speaking, dimension theory is concerned with measuring the ‘size’ of sets by defining different notions of dimension. At the center of NewBoxDim is the box counting dimension which is a fundamental concept within mathematics that has found applications outside of mathematics as well.
+
+The main objective of NewBoxDim is to open new perspectives on the study of the box dimension of sets and measures by exploring three very recent alternative approaches. In the first approach, the goal is to 
+develop unifying machinery based on thermodynamic formalism in order to tackle a long-standing open problem about the existence of the box dimension of self-affine sets. In the second approach, we aim to fuse ideas from dimension theory and methods 
+from percolation theory in a novel way to study the fine scale structure and connectivity properties of different fractal percolation models. The third and final objective of NewBoxDim is to advance our understanding about the time evolution of the chaos game 
+whose convergence rate is determined by the box dimension of the measure driving this stochastic point process. We aim to obtain more nuanced information by making an interesting connection to the {{< math >}}$L^q${{< /math >}} spectrum (also known as generalized fractal dimensions) of the measure and characterizing the measure which minimizes its box dimension. As an interdisciplinary application, our results on the chaos game could have a direct impact on the Chaos Game Representation (and its variants) which is a method that was developed to analyze genomic sequences in bioinformatics.
 {{< /spoiler >}}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
