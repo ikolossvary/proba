@@ -14,7 +14,7 @@ main:
     url: '#projects'
     weight: 30
   - name: MSCA
-    url: '#talks'
+    url: './project/msca'
     weight: 40
   - name: CV
     url: uploads/CV_KI_0124.pdf
