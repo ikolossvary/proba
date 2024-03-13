@@ -70,7 +70,7 @@ sections:
           date_start: '2024-01-01'
           date_end: ''
           description: |2-
-              Funded by the HORIZON-MSCA-2022-PF-01-01 Grant agreement ID: [101109013](https://cordis.europa.eu/project/id/101109013).
+              Principal Investigator of the project [NewBoxDim](./project/msca) funded by the HORIZON-MSCA-2022-PF-01-01 Grant agreement ID: [101109013](https://cordis.europa.eu/project/id/101109013).
              
              [//]: # (Responsibilities include:)
 
