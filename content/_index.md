@@ -65,7 +65,7 @@ sections:
         - title: Research Fellow
           company: Alfréd Rényi Institute of Mathematics
           company_url: ''
-          company_logo: org-gc
+          company_logo: renyi_logo
           location: Budapest, Hungary
           date_start: '2024-01-01'
           date_end: ''
