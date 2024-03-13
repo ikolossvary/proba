@@ -31,7 +31,7 @@ external_link: ''
 # slides: example
 ---
 
-This webpage collects all proffesional activities conducted during my Marie Sklodowska-Curie Actions Postdoctoral Fellowship titled *New perspectives on the box counting dimension of sets and measures* starting Jan. 1, 2024.
+This webpage collects all professional activities conducted during my Marie Sklodowska-Curie Actions Postdoctoral Fellowship titled *New perspectives on the box counting dimension of sets and measures* starting Jan. 1, 2024.
 
 {{< spoiler text="Abstract" >}}
 Fractal geometry is a young, very active and rapidly growing field of research that is connected to different areas of mathematics and the natural sciences. Roughly speaking, dimension theory is concerned with measuring the ‘size’ of sets by defining different notions of dimension. At the center of NewBoxDim is the box counting dimension which is a fundamental concept within mathematics that has found applications outside of mathematics as well.
@@ -41,6 +41,8 @@ develop unifying machinery based on thermodynamic formalism in order to tackle a
 from percolation theory in a novel way to study the fine scale structure and connectivity properties of different fractal percolation models. The third and final objective of NewBoxDim is to advance our understanding about the time evolution of the chaos game 
 whose convergence rate is determined by the box dimension of the measure driving this stochastic point process. We aim to obtain more nuanced information by making an interesting connection to the {{< math >}}$L^q${{< /math >}} spectrum (also known as generalized fractal dimensions) of the measure and characterizing the measure which minimizes its box dimension. As an interdisciplinary application, our results on the chaos game could have a direct impact on the Chaos Game Representation (and its variants) which is a method that was developed to analyze genomic sequences in bioinformatics.
 {{< /spoiler >}}
+
+The project is funded by the HORIZON-MSCA-2022-PF-01-01 Grant agreement ID: [101109013](https://cordis.europa.eu/project/id/101109013). See the [European Commission page](https://marie-sklodowska-curie-actions.ec.europa.eu/) for more details of the scheme.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
