@@ -63,18 +63,19 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Fellow
-          company: Alfréd Rényi Institute of Mathematics
+          company: HUN-REN Alfréd Rényi Institute of Mathematics
           company_url: ''
           company_logo: renyi_logo
           location: Budapest, Hungary
           date_start: '2024-01-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Funded by the HORIZON-MSCA-2022-PF-01-01 Grant agreement ID: [101109013](https://cordis.europa.eu/project/id/101109013).
+             # Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+             # * Analysing
+             # * Modelling
+             # * Deploying
         - title: Research Fellow
           company: University of St Andrews
           company_url: 'https://www.st-andrews.ac.uk/'
