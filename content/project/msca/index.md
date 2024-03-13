@@ -46,6 +46,3 @@ The project is funded by the HORIZON-MSCA-2022-PF-01-01 Grant agreement ID: [101
 
 {{< figure src="EUfunding.png" caption="" width="28%" float="none">}}
 {{< figure src="mariecurie.jpg" caption="" width="24%" >}}
-
-# ![EU flag](EUfunding.png ""){: style="height:83px"}
-# ![EU flag](mariecurie.jpg ""){: style="height:83px"}
