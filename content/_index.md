@@ -71,11 +71,12 @@ sections:
           date_end: ''
           description: |2-
               Funded by the HORIZON-MSCA-2022-PF-01-01 Grant agreement ID: [101109013](https://cordis.europa.eu/project/id/101109013).
-             # Responsibilities include:
+             
+             [//]: # (Responsibilities include:)
 
-             # * Analysing
-             # * Modelling
-             # * Deploying
+             [//]: # (* Analysing)
+             [//]: # (* Modelling)
+             [//]: # (* Deploying)
         - title: Research Fellow
           company: University of St Andrews
           company_url: 'https://www.st-andrews.ac.uk/'
