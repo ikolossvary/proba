@@ -89,24 +89,34 @@ Intermediate dimensions were recently introduced to provide a spectrum of dimens
 ## Seminar talks
 
 - *Assouad spectrum of planar carpets*.   
-[BudWiSer - The Budapest - Wien Dynamics Seminar](https://mathematik.univie.ac.at/forschung/seminare/the-budapest-wien-dynamics-seminar/), January 12,  2024.
+[BudWiSer - The Budapest - Wien Dynamics Seminar](https://mathematik.univie.ac.at/forschung/seminare/the-budapest-wien-dynamics-seminar/); January 12,  2024.
 {{< spoiler text="Abstract" >}}
 There are plenty of examples of sets, such as planar carpets, whose box and Assouad dimensions are different. The Assouad spectrum is a one parameter family of dimensions which gives additional information about the fine scale geometry of such sets. In the talk, we will present a formula for the Assouad spectrum of Gatzouras-Lalley carpets. We will highlight why it can be expressed as the concave conjugate of an explicit piecewise-analytic function and, among dynamically invariant sets, what novel features does the spectrum exhibit. Based on joint work with A. Banaji, J.M. Fraser and A. Rutar.
 {{< /spoiler >}}
 - *On the convergence rate of the chaos game*.   
-[Universit\"{a}t Bremen Dynamical Systems and Geometry Seminar]({https://www.uni-bremen.de/dynamical-systems/seminars/detailansicht?tx_sfeventmgt_pievent%5Baction%5D=detail&tx_sfeventmgt_pievent%5Bcontroller%5D=Event&tx_sfeventmgt_pievent%5Bevent%5D=3545&tx_sfeventmgt_pievent%5Blayout%5D=1&cHash=e3008e2c6756574cd03b849dc12996f5), December 1, 2023.
+[Universit\"{a}t Bremen Dynamical Systems and Geometry Seminar]({https://www.uni-bremen.de/dynamical-systems/seminars/detailansicht?tx_sfeventmgt_pievent%5Baction%5D=detail&tx_sfeventmgt_pievent%5Bcontroller%5D=Event&tx_sfeventmgt_pievent%5Bevent%5D=3545&tx_sfeventmgt_pievent%5Blayout%5D=1&cHash=e3008e2c6756574cd03b849dc12996f5); December 1, 2023.
 {{< spoiler text="Abstract" >}}
 The chaos game is a simple random iterative procedure that generates the attractor of an iterated function system (IFS). This talk will address the question: given a measure driving the chaos game, how long does it take for the orbit of a point to reach a certain density inside the attractor? We show under mild assumptions on the IFS and the measure that the rate of growth of this cover time is determined by the Minkowski dimension of the measure. The results will be illustrated with examples, particularly in finding the measure which achieves the fastest possible rate of convergence. Based on joint work with Balázs Bárány and Natalia Jurga.
 {{< /spoiler >}}
 - *Some variants of the variational principle*.   
-[University of St Andrews Analysis Seminar](https://sta-analysis.github.io/archive/), September 26, 2023.
+[University of St Andrews Analysis Seminar](https://sta-analysis.github.io/archive/); September 26, 2023.
 {{< spoiler text="Abstract" >}}
 A common theme in my recent projects has been to solve optimisation problems usually involving entropies and Lyapunov exponents. In each case the goal is to show a kind of variational principle. I will survey these problems over probability vectors from easier to more complex and show how they come up in the study of Lq dimensions, multifractal analysis and the Assouad spectrum.
 {{< /spoiler >}}
 - *Assouad spectrum beyond Bedford-McMullen carpets*.    
-[University of St Andrews Analysis Seminar](https://sta-analysis.github.io/archive/), March 7, 2023..
+[University of St Andrews Analysis Seminar](https://sta-analysis.github.io/archive/); March 7, 2023.
 {{< spoiler text="Abstract" >}}
 Fraser and Yu introduced the Assouad spectrum in 2018, one of the examples for which they calculated the spectrum were Bedford-McMullen carpets. Natural directions for generalisation are either to consider more general carpets on the plane or try higher dimensional sponges. The talk will focus on how new phenomena lead to additional phase transitions in the spectrum of these more general constructions compared to the single one for Bedford-McMullen carpets. Based on work in progress with Jonathan M. Fraser and Amlan Banaji.
+{{< /spoiler >}}
+- *A variational principle for box counting quantities*.   
+[University of Warwick Ergodic Theory and Dynamical Systems Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/dynamics/2022-23/); December 6, 2022.
+{{< spoiler text="Abstract" >}}
+The classical variational principle for topological pressure is an essential tool in thermodynamic formalism. The aim of the talk is to extend the framework into a non-conformal setting where we prove a variational principle for an appropriate pressure that is specifically tailored to calculate box counting quantities. Similarities and differences between the variational principles will be highlighted. As an application, we can derive the Lq spectrum of self-affine measures supported on planar carpets and higher dimensional sponges.
+{{< /spoiler >}}
+- *Distance between natural numbers based on their prime signature*.   
+[University of Warwick Number Theory Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/number_theory/2022-23/); December 5, 2022.
+{{< spoiler text="Abstract" >}}
+One can define different metrics between natural numbers based on their unique prime signature. Fixing such a metric, we are interested in the asymptotic growth rate of the arithmetic function $L(N)$ which tabulates the cumulative sum of distances between consecutive natural numbers up to $N$. In particular, choosing the maximum norm, we will show that the limit of $L(N)/N$ exists and is equal to the expected value of a certain random variable. We also demonstrate that prime gaps exhibit a richer structure than on the traditional number line and pose a number of problems. Joint work with István B. Kolossváry.
 {{< /spoiler >}}
 
 
