@@ -30,7 +30,8 @@ external_link: ''
 # slides: example
 ---
 
- [book layout]{{< toc >}}
+{{< toc hide_on="xl" >}}
+[book layout]({{< relref “docs.md” >}})
 
 ## Publications
 
