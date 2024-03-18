@@ -93,21 +93,15 @@ Intermediate dimensions were recently introduced to provide a spectrum of dimens
 {{< spoiler text="Abstract" >}}
 There are plenty of examples of sets, such as planar carpets, whose box and Assouad dimensions are different. The Assouad spectrum is a one parameter family of dimensions which gives additional information about the fine scale geometry of such sets. In the talk, we will present a formula for the Assouad spectrum of Gatzouras-Lalley carpets. We will highlight why it can be expressed as the concave conjugate of an explicit piecewise-analytic function and, among dynamically invariant sets, what novel features does the spectrum exhibit. Based on joint work with A. Banaji, J.M. Fraser and A. Rutar.
 {{< /spoiler >}}
+- *On the convergence rate of the chaos game*.   
+[Universit\"{a}t Bremen Dynamical Systems and Geometry Seminar]({https://www.uni-bremen.de/dynamical-systems/seminars/detailansicht?tx_sfeventmgt_pievent%5Baction%5D=detail&tx_sfeventmgt_pievent%5Bcontroller%5D=Event&tx_sfeventmgt_pievent%5Bevent%5D=3545&tx_sfeventmgt_pievent%5Blayout%5D=1&cHash=e3008e2c6756574cd03b849dc12996f5), December 1, 2023.
+{{< spoiler text="Abstract" >}}
+The chaos game is a simple random iterative procedure that generates the attractor of an iterated function system (IFS). This talk will address the question: given a measure driving the chaos game, how long does it take for the orbit of a point to reach a certain density inside the attractor? We show under mild assumptions on the IFS and the measure that the rate of growth of this cover time is determined by the Minkowski dimension of the measure. The results will be illustrated with examples, particularly in finding the measure which achieves the fastest possible rate of convergence. Based on joint work with Balázs Bárány and Natalia Jurga.
+{{< /spoiler >}}
 
 ## Event organisation
 
-This webpage collects all professional activities conducted during my Marie Sklodowska-Curie Actions Postdoctoral Fellowship titled *New perspectives on the box counting dimension of sets and measures* starting Jan. 1, 2024.
 
-{{< spoiler text="Abstract" >}}
-Fractal geometry is a young, very active and rapidly growing field of research that is connected to different areas of mathematics and the natural sciences. Roughly speaking, dimension theory is concerned with measuring the ‘size’ of sets by defining different notions of dimension. At the center of NewBoxDim is the box counting dimension which is a fundamental concept within mathematics that has found applications outside of mathematics as well.
-
-The main objective of NewBoxDim is to open new perspectives on the study of the box dimension of sets and measures by exploring three very recent alternative approaches. In the first approach, the goal is to 
-develop unifying machinery based on thermodynamic formalism in order to tackle a long-standing open problem about the existence of the box dimension of self-affine sets. In the second approach, we aim to fuse ideas from dimension theory and methods 
-from percolation theory in a novel way to study the fine scale structure and connectivity properties of different fractal percolation models. The third and final objective of NewBoxDim is to advance our understanding about the time evolution of the chaos game 
-whose convergence rate is determined by the box dimension of the measure driving this stochastic point process. We aim to obtain more nuanced information by making an interesting connection to the {{< math >}}$L^q${{< /math >}} spectrum (also known as generalized fractal dimensions) of the measure and characterizing the measure which minimizes its box dimension. As an interdisciplinary application, our results on the chaos game could have a direct impact on the Chaos Game Representation (and its variants) which is a method that was developed to analyze genomic sequences in bioinformatics.
-{{< /spoiler >}}
-
-The project is funded by the HORIZON-MSCA-2022-PF-01-01 Grant agreement ID: [101109013](https://cordis.europa.eu/project/id/101109013). See the [European Commission page](https://marie-sklodowska-curie-actions.ec.europa.eu/) for more details of the scheme.
 
 {{< figure src="EUfunding.png" caption="" width="28%" float="none">}}
 {{< figure src="mariecurie.jpg" caption="" width="24%" >}}
