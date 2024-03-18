@@ -30,7 +30,7 @@ external_link: ''
 # slides: example
 ---
 
- {{< toc >}}
+ [book layout]{{< toc >}}
 
 ## Publications
 
