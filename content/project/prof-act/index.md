@@ -52,8 +52,10 @@ List goes back to September 2019, prior events can be found in the [CV](https://
 
 ## Conference talks
 
-- The Assouad spectrum of Lalley-Gatzouras carpets (C)
-  - vmi
+- The Assouad spectrum of Lalley-Gatzouras carpets (C); July 3-7, 2023.
+{{< spoiler text="Abstract" >}}
+Fraser and Yu determined the Assouad spectrum of BedfordMcMullen carpets when they introduced this new dimension spectra in 2018. In the talk, I will highlight interesFng new phenomena that the spectrum exhibits in the more general Lalley-Gatzouras class. Based on joint work with Jonathan M. Fraser and Amlan Banaji.
+{{< /spoiler >}}
 
 - First item
   - A sub-item
