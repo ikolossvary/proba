@@ -52,6 +52,13 @@ List goes back to September 2019, prior events can be found in the [CV](https://
 
 ## Conference talks
 
+- The Assouad spectrum of Lalley-Gatzouras carpets (C)
+  - vmi
+
+- First item
+  - A sub-item
+- Another item
+
 ## Seminar talks
 
 ## Event organisation
