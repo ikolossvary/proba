@@ -67,7 +67,7 @@ The classical variational principle for topological pressure is an essential too
 - *Various dimensions of self-affine measures on sponges*.   
 [Fractals and Related Fields IV (FARF)](https://farf4.math.cnrs.fr/), Isle de Porquerolles, FR; September 5-9, 2022.
 {{< spoiler text="Abstract" >}}
-The classical variational principle for topological pressure is an essential tool in thermodynamic formalism. The aim of the talk is to extend the framework into a non-conformal setting where we prove a variational principle for an appropriate pressure that is specifically tailored to calculate box counting quantities. Similarities and differences between the variational principles will be highlighted. As an application, we can derive the {{< math >}}$L^q${{< /math >}} spectrum of self-affine measures supported on planar carpets and higher dimensional sponges.
+The classical variational principle for topological pressure is an essential tool in thermodynamic formalism. The aim of the talk is to extend the framework into a non-conformal setting where we prove a variational principle for an appropriate pressure that is specifically tailored to calculate box counting quantities. Similarities and differences between the variational principles will be highlighted. As an application, we can derive the $L^q$ spectrum of self-affine measures supported on planar carpets and higher dimensional sponges.
 {{< /spoiler >}}
 - *On the Convergence Rate of the Chaos Game*.    
 [7th Cornell Conference on Analysis, Probability, and Mathematical Physics on Fractals](https://alexander-teplyaev.uconn.edu/cornell7/speakers/), Cornell University, NY, USA; June 4-8, 2022.
@@ -78,6 +78,11 @@ This talk will address the question: how long does it take for the orbit of the 
 [Workshop on affine and overlapping iterated function systems 2022](http://www.troscheit.eu/workshop2022/index.html), University of Bristol, UK; May 10-12, 2022.
 {{< spoiler text="Abstract" >}}
 In this talk we consider self-affine sponges in Rd which satisfy a separation condition that gives a certain grid alignment to first level cylinder sets. On the plane these are precisely the Lalley-Gatzouras and Bara\'nski carpets. We show that the Lq spectrum of any self-affine measure supported on such a sponge satisfies a variational formula for all q∈R. Sufficient conditions are given for the formula to have a closed form. In particular, this is always the case for the box dimension of the sponge. The Frostman and box dimension of these measures is also determined. The result is derived from a more general variational principle for calculating box counting quantities on sponges which resembles the Ledrappier-Young formula for Hausdorff dimension and could be of interest to further study in its own right.
+{{< /spoiler >}}
+- *Intermediate dimensions of Bedford--McMullen carpets*.   
+[Junior Ergodic Theory Meeting](https://www.icms.org.uk/workshops/2022/junior-ergodic-theory-meeting), ICMS, Edinburgh, UK; March 28-31, 2022.
+{{< spoiler text="Abstract" >}}
+Intermediate dimensions were recently introduced to provide a spectrum of dimensions interpolating between Hausdorff and box-counting dimensions for fractals where these differ. In particular, the self-affine Bedford-McMullen carpets are a natural case for investigation, but until now only very rough bounds for their intermediate dimensions have been found. The aim of the talk is to present a precise formula for the full spectrum with some intuition behind it. Moreover, to highlight a surprising connection of the intermediate dimensions to the multifractal spectrum and Lipschitz equivalence of these carpets. Based on joint work with Amlan Banaji.
 {{< /spoiler >}}
 
 
