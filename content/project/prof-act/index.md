@@ -30,6 +30,8 @@ external_link: ''
 # slides: example
 ---
 
+ [book layout]({{< relref “docs.md” >}})
+ 
 ## Publications
 
 See the [publications page](https://ikolossvary.github.io/proba/publication/) for complete list.
