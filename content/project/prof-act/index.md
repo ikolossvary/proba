@@ -148,7 +148,27 @@ The intermediate dimensions of a set $\Lambda$, elsewhere denoted by $\dim_{\the
 {{< spoiler text="Abstract" >}}
 The intermediate dimensions of a set $\Lambda$, elsewhere denoted by $\dim_{\theta} \Lambda$, interpolate between its Hausdorff and box dimensions using the parameter $\theta \in [0,1]$. Determining a precise formula for $\dim_{\theta} \Lambda$ is particularly challenging when $\Lambda$ is a Bedford-McMullen carpet with distinct Hausdorff and box dimension. In this talk, after giving an overview on dimension interpolation, we will present an argument that shows that $\dim_{\theta} \Lambda$ is strictly less than the box dimension of $\Lambda$ for every $\theta < 1$. Time permitting, we will also show how to improve on the lower bound obtained by Falconer, Fraser, and Kempton.
 {{< /spoiler >}}
-- *Generic self-similar and self-conformal attractors on the line*.
+- *Generic self-similar and self-conformal attractors on the line*.   
+[University of St Andrews Pure Maths Colloquium](https://theran.lt/seminartalks/2020-03-05-kolossvary.html); March 5, 2020.
+{{< spoiler text="Abstract" >}}
+In 2001, Peres, Simon and Solomyak considered one-parameter families of self-similar Iterated Function Systems (IFSs) on the line satisfying the so-called transversality condition. They proved that if the similarity dimension is less than 1, then for a typical parameter (both in category and measure sense) the existence of overlaps between cylinders implies that the appropriate dimensional Hausdorff measure of the attractor is zero. We extend this result both for self-similar and self-conformal IFSs on the line. Moreover, combining with recent results of Fraser-Henderson-Olson-Robinson and Angelevska-Kaenmaki-Troscheit we obtain that the Assouad dimension of such systems is 1. (joint work with Balázs Bárány, Mihal Rams, and Károly Simon)
+{{< /spoiler >}}
+- *Typical self-similar and self-conformal attractors on the line*.   
+[University of Bristol Ergodic Theory and Dynamical Systems Seminar](https://www.bristolmathsresearch.org/seminar/istvan-kolossvary/); February 27, 2020.
+{{< spoiler text="Abstract" >}}
+In 2001, Peres, Simon and Solomyak considered one-parameter families of self-similar Iterated Function Systems (IFSs) on the line satisfying the so-called transversality condition. They proved that if the similarity dimension is less than 1, then for a typical parameter (both in category and measure sense) the existence of overlaps between cylinders implies that the appropriate dimensional Hausdorff measure of the attractor is zero. We extend this result both for self-similar and self-conformal IFSs on the line. Moreover, combining with recent results of Fraser-Henderson-Olson-Robinson and Angelevska-Kaenmaki-Troscheit we obtain that the Assouad dimension of such systems is 1. (joint work with Balázs Bárány, Mihal Rams, and Károly Simon)
+{{< /spoiler >}}
+- *Counting intersections in transversally overlapping self-affine planar carpets*.    
+[University of St Andrews Analysis Seminar](https://sta-analysis.github.io/archive/); November 5, 2019.
+{{< spoiler text="Abstract" >}}
+The first part of the talk will give a broader overview of where this joint work with Károly Simon fits into the literature about self-affine planar carpets. Then more detail will be given about the result for box dimension. In particular, the key argument for counting intersecting boxes under a certain transversality condition will be presented.
+{{< /spoiler >}}
+- *Overlapping self-affine planar carpets*.    
+University of Manchester Analysis and Dynamics Seminar; October 21, 2019.
+{{< spoiler text="Abstract" >}}
+We will survey the different types of self-affine carpets in the literature that led Károly Simon and myself to study a general class of carpets with different types of overlapping cylinders. These overlaps could cause the dimension of the attractor to drop compared to an analogous system without overlaps. We showed explicitly checkable conditions on the parameters of the carpet, under which this (possible) drop of different notions of dimension does not occur. The results will be illustrated with several examples and an application to three-dimensional systems. Time permitting, I will give some ideas on how we handled overlaps in the proofs.
+{{< /spoiler >}}
+
 
 ## Event organisation
 
