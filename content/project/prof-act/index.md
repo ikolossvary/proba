@@ -53,9 +53,16 @@ List goes back to September 2019, prior events can be found in the [CV](https://
 ## Conference talks
 
 - *The Assouad spectrum of Lalley-Gatzouras carpets*.    
-[Fractal Geometry Workshop](https://www.icms.org.uk/workshops/2023/fractal-geometry), ICMS, Edinburgh, UK; July 3-7, 2023. {{< spoiler text="Abstract" >}}
+[Fractal Geometry Workshop](https://www.icms.org.uk/workshops/2023/fractal-geometry), ICMS, Edinburgh, UK; July 3-7, 2023.
+{{< spoiler text="Abstract" >}}
 Fraser and Yu determined the Assouad spectrum of Bedford-McMullen carpets when they introduced this new dimension spectra in 2018. In the talk, I will highlight interesting new phenomena that the spectrum exhibits in the more general Lalley-Gatzouras class. Based on joint work with Jonathan M. Fraser and Amlan Banaji.
 {{< /spoiler >}}
+- *A variational principle for box counting quantities*.    
+[Thermodynamic Formalism: Non-additive Aspects and Related Topics](https://www.impan.pl/en/activities/banach-center/conferences/23-thermoform), Bedlewo, PL; May 14-19, 2023.
+{{< spoiler text="Abstract" >}}
+The classical variational principle for topological pressure is an essential tool in thermodynamic formalism. The aim of the talk is to extend the framework into a non-conformal setting where we prove a variational principle for an appropriate pressure that is specifically tailored to calculate box counting quantities. Similarities and differences between the variational principles will be highlighted. As an application, we can derive the {{< math >}}$L^q${{< /math >}} spectrum of self-affine measures supported on planar carpets and higher dimensional sponges.
+{{< /spoiler >}}
+
 
 - First item
   - A sub-item
