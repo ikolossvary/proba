@@ -74,6 +74,11 @@ The classical variational principle for topological pressure is an essential too
 {{< spoiler text="Abstract" >}}
 This talk will address the question: how long does it take for the orbit of the chaos game to reach a certain density inside the attractor of a strictly contracting IFS of which we only assume that its lower dimension is positive? We show that the rate of growth of this cover time is determined by the Minkowski dimension of the push-forward of the shift invariant measure with exponential decay of correlations driving the chaos game. As an application, for Bedford-McMullen carpets, we completely characterize the family of probability vectors that minimize the Minkowski dimension of Bernoulli measures. Based on joint work with B. Bárány and N. Jurga.
 {{< /spoiler >}}
+- *The $L^q$ spectrum of self-affine measures on sponges*.   
+[Workshop on affine and overlapping iterated function systems 2022](http://www.troscheit.eu/workshop2022/index.html), University of Bristol, UK; May 10-12, 2022.
+{{< spoiler text="Abstract" >}}
+In this talk we consider self-affine sponges in Rd which satisfy a separation condition that gives a certain grid alignment to first level cylinder sets. On the plane these are precisely the Lalley-Gatzouras and Bara\'nski carpets. We show that the Lq spectrum of any self-affine measure supported on such a sponge satisfies a variational formula for all q∈R. Sufficient conditions are given for the formula to have a closed form. In particular, this is always the case for the box dimension of the sponge. The Frostman and box dimension of these measures is also determined. The result is derived from a more general variational principle for calculating box counting quantities on sponges which resembles the Ledrappier-Young formula for Hausdorff dimension and could be of interest to further study in its own right.
+{{< /spoiler >}}
 
 
 - First item
