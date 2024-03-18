@@ -31,7 +31,6 @@ external_link: ''
 ---
 
 {{< toc hide_on="xl" >}}
-[book layout]({{< relref “docs.md” >}})
 
 ## Publications
 
