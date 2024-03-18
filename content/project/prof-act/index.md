@@ -64,6 +64,11 @@ Fraser and Yu determined the Assouad spectrum of Bedford-McMullen carpets when t
 {{< spoiler text="Abstract" >}}
 The classical variational principle for topological pressure is an essential tool in thermodynamic formalism. The aim of the talk is to extend the framework into a non-conformal setting where we prove a variational principle for an appropriate pressure that is specifically tailored to calculate box counting quantities. Similarities and differences between the variational principles will be highlighted. As an application, we can derive the {{< math >}}$L^q${{< /math >}} spectrum of self-affine measures supported on planar carpets and higher dimensional sponges.
 {{< /spoiler >}}
+- *Various dimensions of self-affine measures on sponges*.   
+[Fractals and Related Fields IV (FARF)](https://farf4.math.cnrs.fr/), Isle de Porquerolles, FR; September 5-9, 2022.
+{{< spoiler text="Abstract" >}}
+The classical variational principle for topological pressure is an essential tool in thermodynamic formalism. The aim of the talk is to extend the framework into a non-conformal setting where we prove a variational principle for an appropriate pressure that is specifically tailored to calculate box counting quantities. Similarities and differences between the variational principles will be highlighted. As an application, we can derive the {{< math >}}$L^q${{< /math >}} spectrum of self-affine measures supported on planar carpets and higher dimensional sponges.
+{{< /spoiler >}}
 
 
 - First item
