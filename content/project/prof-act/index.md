@@ -30,7 +30,9 @@ external_link: ''
 # slides: example
 ---
 
-{{< toc layout="book" >}}
+{{< toc >}}
+
+All lists go back to September 2019, prior activities can be found in the [CV](https://ikolossvary.github.io/proba/uploads/CV_KI_0124.pdf).
 
 ## Publications
 
@@ -41,8 +43,6 @@ See the [publications page](https://ikolossvary.github.io/proba/publication/) fo
 ### Tentative plans
 
 ### Past events
-
-List goes back to September 2019, prior events can be found in the [CV](https://ikolossvary.github.io/proba/uploads/CV_KI_0124.pdf).
 
 #### 2023
 
