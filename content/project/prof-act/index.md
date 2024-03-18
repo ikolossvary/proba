@@ -98,6 +98,17 @@ There are plenty of examples of sets, such as planar carpets, whose box and Asso
 {{< spoiler text="Abstract" >}}
 The chaos game is a simple random iterative procedure that generates the attractor of an iterated function system (IFS). This talk will address the question: given a measure driving the chaos game, how long does it take for the orbit of a point to reach a certain density inside the attractor? We show under mild assumptions on the IFS and the measure that the rate of growth of this cover time is determined by the Minkowski dimension of the measure. The results will be illustrated with examples, particularly in finding the measure which achieves the fastest possible rate of convergence. Based on joint work with Balázs Bárány and Natalia Jurga.
 {{< /spoiler >}}
+- *Some variants of the variational principle*.   
+[University of St Andrews Analysis Seminar](https://sta-analysis.github.io/archive/), September 26, 2023.
+{{< spoiler text="Abstract" >}}
+A common theme in my recent projects has been to solve optimisation problems usually involving entropies and Lyapunov exponents. In each case the goal is to show a kind of variational principle. I will survey these problems over probability vectors from easier to more complex and show how they come up in the study of Lq dimensions, multifractal analysis and the Assouad spectrum.
+{{< /spoiler >}}
+- *Assouad spectrum beyond Bedford-McMullen carpets*.    
+[University of St Andrews Analysis Seminar](https://sta-analysis.github.io/archive/), March 7, 2023..
+{{< spoiler text="Abstract" >}}
+Fraser and Yu introduced the Assouad spectrum in 2018, one of the examples for which they calculated the spectrum were Bedford-McMullen carpets. Natural directions for generalisation are either to consider more general carpets on the plane or try higher dimensional sponges. The talk will focus on how new phenomena lead to additional phase transitions in the spectrum of these more general constructions compared to the single one for Bedford-McMullen carpets. Based on work in progress with Jonathan M. Fraser and Amlan Banaji.
+{{< /spoiler >}}
+
 
 ## Event organisation
 
