@@ -69,6 +69,11 @@ The classical variational principle for topological pressure is an essential too
 {{< spoiler text="Abstract" >}}
 The classical variational principle for topological pressure is an essential tool in thermodynamic formalism. The aim of the talk is to extend the framework into a non-conformal setting where we prove a variational principle for an appropriate pressure that is specifically tailored to calculate box counting quantities. Similarities and differences between the variational principles will be highlighted. As an application, we can derive the {{< math >}}$L^q${{< /math >}} spectrum of self-affine measures supported on planar carpets and higher dimensional sponges.
 {{< /spoiler >}}
+- *On the Convergence Rate of the Chaos Game*.    
+[7th Cornell Conference on Analysis, Probability, and Mathematical Physics on Fractals](https://alexander-teplyaev.uconn.edu/cornell7/speakers/), Cornell University, NY, USA; June 4-8, 2022.
+{{< spoiler text="Abstract" >}}
+This talk will address the question: how long does it take for the orbit of the chaos game to reach a certain density inside the attractor of a strictly contracting IFS of which we only assume that its lower dimension is positive? We show that the rate of growth of this cover time is determined by the Minkowski dimension of the push-forward of the shift invariant measure with exponential decay of correlations driving the chaos game. As an application, for Bedford-McMullen carpets, we completely characterize the family of probability vectors that minimize the Minkowski dimension of Bernoulli measures. Based on joint work with B. Bárány and N. Jurga.
+{{< /spoiler >}}
 
 
 - First item
