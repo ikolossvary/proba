@@ -88,7 +88,11 @@ Intermediate dimensions were recently introduced to provide a spectrum of dimens
 
 ## Seminar talks
 
-- *Assouad spectrum of planar carpets*.
+- *Assouad spectrum of planar carpets*.   
+[BudWiSer - The Budapest - Wien Dynamics Seminar](https://mathematik.univie.ac.at/forschung/seminare/the-budapest-wien-dynamics-seminar/), January 12,  2024.
+{{< spoiler text="Abstract" >}}
+There are plenty of examples of sets, such as planar carpets, whose box and Assouad dimensions are different. The Assouad spectrum is a one parameter family of dimensions which gives additional information about the fine scale geometry of such sets. In the talk, we will present a formula for the Assouad spectrum of Gatzouras-Lalley carpets. We will highlight why it can be expressed as the concave conjugate of an explicit piecewise-analytic function and, among dynamically invariant sets, what novel features does the spectrum exhibit. Based on joint work with A. Banaji, J.M. Fraser and A. Rutar.
+{{< /spoiler >}}
 
 ## Event organisation
 
