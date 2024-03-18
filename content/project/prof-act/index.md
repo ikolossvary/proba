@@ -32,7 +32,15 @@ external_link: ''
 
 ## Publications
 
+See the [publications page](./publication/) for complete list.
+
 ## Conference and workshop participation
+
+### Tentative plans
+
+### Past events
+
+List goes back to September 2019, prior events can be found in the [CV](uploads/CV_KI_0124.pdf).
 
 ## Conference talks
 
