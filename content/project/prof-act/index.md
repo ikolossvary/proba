@@ -52,7 +52,8 @@ List goes back to September 2019, prior events can be found in the [CV](https://
 
 ## Conference talks
 
-- The Assouad spectrum of Lalley-Gatzouras carpets (C); July 3-7, 2023. [Fractal Geometry Workshop](https://www.icms.org.uk/workshops/2023/fractal-geometry), ICMS, Edinburgh, UK.
+- *The Assouad spectrum of Lalley-Gatzouras carpets*; July 3-7, 2023.   
+[Fractal Geometry Workshop](https://www.icms.org.uk/workshops/2023/fractal-geometry), ICMS, Edinburgh, UK.
 {{< spoiler text="Abstract" >}}
 Fraser and Yu determined the Assouad spectrum of Bedford-McMullen carpets when they introduced this new dimension spectra in 2018. In the talk, I will highlight interesting new phenomena that the spectrum exhibits in the more general Lalley-Gatzouras class. Based on joint work with Jonathan M. Fraser and Amlan Banaji.
 {{< /spoiler >}}
