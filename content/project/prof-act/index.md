@@ -32,7 +32,7 @@ external_link: ''
 
 ## Publications
 
-See the [publications page](./publication/) for complete list.
+See the [publications page](https://ikolossvary.github.io/proba/publication/) for complete list.
 
 ## Conference and workshop participation
 
@@ -40,7 +40,15 @@ See the [publications page](./publication/) for complete list.
 
 ### Past events
 
-List goes back to September 2019, prior events can be found in the [CV](uploads/CV_KI_0124.pdf).
+List goes back to September 2019, prior events can be found in the [CV](https://ikolossvary.github.io/proba/uploads/CV_KI_0124.pdf).
+
+#### 2023
+
+#### 2022
+
+#### 2021
+
+#### 2020
 
 ## Conference talks
 
