@@ -138,6 +138,17 @@ In the 1988 textbook "Fractals Everywhere", M. Barnsley introduced an iterative 
 {{< spoiler text="Abstract" >}}
 This talk will present an argument based on using the method of types to calculate the box dimension of sets. Demonstrating first on self-similar sets, we then use it to generalize the formula for the box dimension of self-affine carpets of Gatzouras-Lalley and of Barański type to their higher dimensional sponge analogues. In addition to a closed form, we also obtain a variational formula which resembles the Ledrappier-Young formula for Hausdorff dimension.
 {{< /spoiler >}}
+- *Intermediate dimensions of Bedford--McMullen carpets*.    
+[Universitat Wien Egodic Theory Seminar](https://mathematik.univie.ac.at/en/research/seminars/arbeitsgemeinschaft-ergodentheorie/); November 12, 2020.
+{{< spoiler text="Abstract" >}}
+The intermediate dimensions of a set $\Lambda$, elsewhere denoted by $\dim_{\theta} \Lambda$, interpolate between its Hausdorff and box dimensions using the parameter $\theta \in [0,1]$. Determining a precise formula for $\dim_{\theta} \Lambda$ is particularly challenging when $\Lambda$ is a Bedford-McMullen carpet with distinct Hausdorff and box dimension. In this talk, after giving an overview on dimension interpolation, we will present an argument that shows that $\dim_{\theta} \Lambda$ is strictly less than the box dimension of $\Lambda$ for every $\theta < 1$. Time permitting, we will also show how to improve on the lower bound obtained by Falconer, Fraser, and Kempton.
+{{< /spoiler >}}
+- *Intermediate dimensions of Bedford--McMullen carpets*.   
+[University of St Andrews Analysis Seminar](https://sta-analysis.github.io/archive/); August 11, 2020.
+{{< spoiler text="Abstract" >}}
+The intermediate dimensions of a set $\Lambda$, elsewhere denoted by $\dim_{\theta} \Lambda$, interpolate between its Hausdorff and box dimensions using the parameter $\theta \in [0,1]$. Determining a precise formula for $\dim_{\theta} \Lambda$ is particularly challenging when $\Lambda$ is a Bedford-McMullen carpet with distinct Hausdorff and box dimension. In this talk, after giving an overview on dimension interpolation, we will present an argument that shows that $\dim_{\theta} \Lambda$ is strictly less than the box dimension of $\Lambda$ for every $\theta < 1$. Time permitting, we will also show how to improve on the lower bound obtained by Falconer, Fraser, and Kempton.
+{{< /spoiler >}}
+- *Generic self-similar and self-conformal attractors on the line*.
 
 ## Event organisation
 
