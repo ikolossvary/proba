@@ -123,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-I am a research fellow in pure mathematics at the Alfréd Rényi Institute of Mathematics in Budapest, Hungary. I currently hold a Marie Sklodowska-Curie Actions Postdoctoral Fellowship titled *New perspectives on the box counting dimension of sets and measures*. My main area of interest lies in the broad area of dynamical systems and more specifically the dimension theory of fractal sets and measures arising from various contexts. I have also worked on first passage percolation problems on random graphs before. 
+I am a research fellow in pure mathematics at the Alfréd Rényi Institute of Mathematics in Budapest, Hungary. I currently hold a Marie Sklodowska-Curie Actions Postdoctoral Fellowship titled *New perspectives on the box counting dimension of sets and measures*. My main area of interest lies in the broad area of dynamical systems and more specifically the dimension theory of fractal sets and measures arising from various contexts. I have also worked on first passage percolation problems on random graphs. 
 {style="text-align: justify;"}
