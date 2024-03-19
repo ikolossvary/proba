@@ -76,7 +76,7 @@ In 2008, Picard proved that analytic properties of the function are connected to
 (Joint with Maik Gröger)
 {{< /spoiler >}}
 
-- **Michal Rams**   
+- **12:15-13:00 Michal Rams**   
 Title: *Lyapunov spectrum of matrix cocycles*   
 {{< spoiler text="Abstract" >}}
 I will give an introduction into calculation of the Lyapunov spectrum of $SL(2,R)$ matrix cocycles, presenting results we got with Lorenzo Diaz and Katrin Gelfert.
