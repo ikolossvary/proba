@@ -1,5 +1,5 @@
 ---
-title: Proffesional Activities
+title: Professional Activities
 summary: Webpage collecting all professional activities done by István Kolossváry.
 tags:
   - MSCA
@@ -50,6 +50,13 @@ See the [publications page](https://ikolossvary.github.io/proba/publication/) fo
 ### Past events
 
 #### 2023
+
+- [One day ergodic theory meeting](https://warwick.ac.uk/fac/sci/maths/people/staff/richard_sharp/p1/ergodicnetwork/misc/22non2023/), 22 November, University of Warwick.
+- [Dynamics and asymptotics in algebra and number theory](https://www.math.uni-bielefeld.de/daan23/), 11-15 September, Bielefeld University.
+- [Recent advances in ergodic theory and dynamics](https://www.lboro.ac.uk/departments/maths/events/2023/recent-advances-ergodic-theory/), 13-14 July, Loughborough University.
+- [Fractal Geometry Workshop](https://www.icms.org.uk/workshops/2023/fractal-geometry), 3-7 July, ICMS.
+- [Multifractal analysis and self-similarity](https://conferences.cirm-math.fr/2751.html), 26-30 June, CIRM.
+- [School and workshop "Dynamics and fractals"](https://www.impan.pl/en/activities/banach-center/conferences/23-simons-v/programme) at the Simons Semester, 7-13 May, IMPAN.
 
 #### 2022
 
