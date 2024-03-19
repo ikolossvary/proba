@@ -62,20 +62,24 @@ projects:
 
 Schedule:
 
-- **10:00-10:45** Francois Ledrappier   
+- **10:00-10:45 Francois Ledrappier**   
 Title: *Variational Principle for Anosov groups of matrices*   
 {{< spoiler text="Abstract" >}}
 We consider a discrete group of $(d \times d)$-matrices. There is a geometric growth rate (the "Falconer dimension") that generalizes the Poincaré exponent of discrete groups of $(2\times 2)$-matrices. Under some hyperbolicity assumptions, we relate this growth rate to the supremum of the "Lyapunov dimensions" associated to random walks on the group. This is joint work with P. Lessa (Montevideo) and a generalization of a recent paper by Jiao, Li, Pan, and Xu.
 {{< /spoiler >}}
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+- **11:00-11:45 Sascha Troscheit**   
+Title: *Continuum trees of real functions and their graphs*   
+{{< spoiler text="Abstract" >}}
+The Brownian continuum tree (CRT) is an important random metric space that was extensively investigated in the 1990s. It can be constructed by a change of metric from a Brownian excursion function on $[0,1]$. This change of metric can be applied to all continuous circle mappings to give a continuum tree associated with the function.   
+In 2008, Picard proved that analytic properties of the function are connected to the dimension theory of its tree: the upper box dimension of the continuum tree coincides with the variation index of the contour function. We will provide a short and direct proof of Picard's theorem through the study of packings. The methods used will inspire different notions of variations and variation indices, and we will link the dimension theory of the tree with the dimension theory of the graph of its contour function.   
+(Joint with Maik Gröger)
+{{< /spoiler >}}
 
-Slides can be added in a few ways:
+- **Michal Rams**   
+Title: *Lyapunov spectrum of matrix cocycles*   
+{{< spoiler text="Abstract" >}}
+I will give an introduction into calculation of the Lyapunov spectrum of $SL(2,R)$ matrix cocycles, presenting results we got with Lorenzo Diaz and Katrin Gelfert.
+{{< /spoiler >}}
 
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+Organisers: Balázs Bárány, Károly Simon, István Kolossváry
