@@ -56,11 +56,12 @@ See the [publications page](https://ikolossvary.github.io/proba/publication/) fo
 - [Recent advances in ergodic theory and dynamics](https://www.lboro.ac.uk/departments/maths/events/2023/recent-advances-ergodic-theory/), 13-14 July, Loughborough University.
 - [Fractal Geometry Workshop](https://www.icms.org.uk/workshops/2023/fractal-geometry), 3-7 July, ICMS.
 {{< spoiler text="Talk" >}}
-Title: The Assouad spectrum of Lalley-Gatzouras carpets.
+Title: *The Assouad spectrum of Lalley-Gatzouras carpets*.
+
 Abstract: Fraser and Yu determined the Assouad spectrum of Bedford-McMullen carpets when they introduced this new dimension spectra in 2018. In the talk, I will highlight interesting new phenomena that the spectrum exhibits in the more general Lalley-Gatzouras class. Based on joint work with Jonathan M. Fraser and Amlan Banaji.
 {{< /spoiler >}}
 - [Multifractal analysis and self-similarity](https://conferences.cirm-math.fr/2751.html), 26-30 June, CIRM.
-- [School and workshop "Dynamics and fractals"](https://www.impan.pl/en/activities/banach-center/conferences/23-simons-v/programme), [Thermodynamic Formalism: Non-additive Aspects and Related Topics](https://www.impan.pl/en/activities/banach-center/conferences/23-thermoform) at the Simons Semester, 7-19 May, IMPAN/Bedlewo.
+- [School and workshop "Dynamics and fractals"](https://www.impan.pl/en/activities/banach-center/conferences/23-simons-v/programme); [Thermodynamic Formalism: Non-additive Aspects and Related Topics](https://www.impan.pl/en/activities/banach-center/conferences/23-thermoform) at the Simons Semester, 7-19 May, IMPAN/Bedlewo.
 
 #### 2022
 
@@ -73,7 +74,15 @@ Abstract: Fraser and Yu determined the Assouad spectrum of Bedford-McMullen carp
 
 #### 2021
 
+Only online meetings due to covid.
+
 #### 2020
+
+- [Fractals and Dynamics](https://sites.google.com/view/solomyak60), 13-14 January, Bar-Ilan University.
+
+#### 2019
+
+- [Thermodynamic Formalism: Dynamical Systems, Statistical Properties and their Applications](https://www.chairejeanmorlet.com/2109.html), 9-13 December, CIRM.
 
 ## Conference talks
 
