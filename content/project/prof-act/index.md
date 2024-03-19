@@ -42,6 +42,11 @@ See the [publications page](https://ikolossvary.github.io/proba/publication/) fo
 
 ### Tentative plans
 
+- [Geometry and Fractals Under the Midnight Sun](https://midnightsun2024.gitlab.io/), 25-28 June 2024, University of Oulu.
+- [Workshop on Ergodic Theory and Fractal Geometry](https://sites.google.com/view/workshoponfractalgeometryandet/home), 8-10 July 2024, Loughborough University.
+- [XLIV Dynamics Days Europe](https://dynamicsdays.eu/bremen2024/), 29 July - 2 August 2024, Constructor University.
+- [Fractals and Hyperbolic Dynamical Systems](https://erdoscenter.renyi.hu/articles/fractals-and-hyperbolic-dynamical-systems-2024-fall-aug-dec), Fall 2024, Alfréd Rényi Institute of Mathematics.
+
 ### Past events
 
 #### 2023
