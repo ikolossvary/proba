@@ -56,9 +56,16 @@ See the [publications page](https://ikolossvary.github.io/proba/publication/) fo
 - [Recent advances in ergodic theory and dynamics](https://www.lboro.ac.uk/departments/maths/events/2023/recent-advances-ergodic-theory/), 13-14 July, Loughborough University.
 - [Fractal Geometry Workshop](https://www.icms.org.uk/workshops/2023/fractal-geometry), 3-7 July, ICMS.
 - [Multifractal analysis and self-similarity](https://conferences.cirm-math.fr/2751.html), 26-30 June, CIRM.
-- [School and workshop "Dynamics and fractals"](https://www.impan.pl/en/activities/banach-center/conferences/23-simons-v/programme) at the Simons Semester, 7-13 May, IMPAN.
+- [School and workshop "Dynamics and fractals"](https://www.impan.pl/en/activities/banach-center/conferences/23-simons-v/programme), [Thermodynamic Formalism: Non-additive Aspects and Related Topics](https://www.impan.pl/en/activities/banach-center/conferences/23-thermoform) at the Simons Semester, 7-19 May, IMPAN/Bedlewo.
 
 #### 2022
+
+- [Fractals and Related Fields IV (FARF)](https://farf4.math.cnrs.fr/), 5-9 September, Isle de Porquerolles.
+- [Geometry of Deterministic and Random Fractals](https://simon60.math.bme.hu/), 27 June - 1 July, Budapest University of Technology and Economics.
+- [Rényi 100](https://conferences.renyi.hu/renyi100), 20-23 June, Hungarian Academy of Sciences.
+- [7th Cornell Conference on Analysis, Probability, and Mathematical Physics on Fractals](https://alexander-teplyaev.uconn.edu/cornell7/speakers/), 4-8 June, Cornell University.
+- [Workshop on affine and overlapping iterated function systems 2022](http://www.troscheit.eu/workshop2022/index.html), 10-12 May, University of Bristol.
+- [Junior Ergodic Theory Meeting](https://www.icms.org.uk/workshops/2022/junior-ergodic-theory-meeting), 28-31 March, ICMS.
 
 #### 2021
 
