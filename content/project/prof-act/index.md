@@ -56,8 +56,7 @@ See the [publications page](https://ikolossvary.github.io/proba/publication/) fo
 - [Recent advances in ergodic theory and dynamics](https://www.lboro.ac.uk/departments/maths/events/2023/recent-advances-ergodic-theory/), 13-14 July, Loughborough University.
 - [Fractal Geometry Workshop](https://www.icms.org.uk/workshops/2023/fractal-geometry), 3-7 July, ICMS.
 {{< spoiler text="Talk" >}}
-Title: *The Assouad spectrum of Lalley-Gatzouras carpets*.
-
+Title: *The Assouad spectrum of Lalley-Gatzouras carpets*.   
 Abstract: Fraser and Yu determined the Assouad spectrum of Bedford-McMullen carpets when they introduced this new dimension spectra in 2018. In the talk, I will highlight interesting new phenomena that the spectrum exhibits in the more general Lalley-Gatzouras class. Based on joint work with Jonathan M. Fraser and Amlan Banaji.
 {{< /spoiler >}}
 - [Multifractal analysis and self-similarity](https://conferences.cirm-math.fr/2751.html), 26-30 June, CIRM.
