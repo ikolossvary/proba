@@ -119,6 +119,10 @@ Intermediate dimensions were recently introduced to provide a spectrum of dimens
 
 ## Seminar talks
 
+- *Applications of the method of types in dimension theory*.   
+[Analysis Seminar at the Rényi Institute](https://www.renyi.hu/hu/esemenyek-v1/istvan-kolossvary-applications-of-the-method-of-types-in-dimension-theory); April 18,  2024.
+{{< spoiler text="Abstract" >}}
+The method of types stems from information theory and is a basic tool in large deviation theory involving finite alphabets. This approach has recently found its way to proving results in dimension theory, mainly related to the box dimension of sets and measures. The talk will survey some of these results and the argument itself will be demonstrated on the simplest possible example  of self-similar sets.
 - *Interpolating between different notions of dimension*.   
 [Dynamical Systems Seminar at the Jagiellonian University in Cracow](https://dynsys.im.uj.edu.pl/archiwum.php?lang=eng); March 22,  2024.
 {{< spoiler text="Abstract" >}}
