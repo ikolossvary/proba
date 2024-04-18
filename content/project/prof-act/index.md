@@ -123,7 +123,8 @@ Intermediate dimensions were recently introduced to provide a spectrum of dimens
 [Analysis Seminar at the Rényi Institute](https://www.renyi.hu/hu/esemenyek-v1/istvan-kolossvary-applications-of-the-method-of-types-in-dimension-theory); April 18,  2024.
 {{< spoiler text="Abstract" >}}
 The method of types stems from information theory and is a basic tool in large deviation theory involving finite alphabets. This approach has recently found its way to proving results in dimension theory, mainly related to the box dimension of sets and measures. The talk will survey some of these results and the argument itself will be demonstrated on the simplest possible example  of self-similar sets.
-- *Interpolating between different notions of dimension*.   
+- *Interpolating between different notions of dimension*. 
+{{< /spoiler >}}
 [Dynamical Systems Seminar at the Jagiellonian University in Cracow](https://dynsys.im.uj.edu.pl/archiwum.php?lang=eng); March 22,  2024.
 {{< spoiler text="Abstract" >}}
 Various notions of dimension capture how efficiently a set can be covered from different aspects. These can lead to different values for a set which is “inhomogeneous” in some sense. A recent trend in dimension theory has been to define one parameter families of dimensions which interpolate between two well-known dimensions in order to uncover finer geometric scaling properties of such sets. The talk will present how this can be done in a meaningful way and present results and applications for the class of planar self-affine carpets. Based on joint works with A. Banaji, J.M. Fraser and A. Rutar.
