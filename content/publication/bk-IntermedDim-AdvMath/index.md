@@ -9,7 +9,7 @@ publication_types:
 - article-journal
 publication: '*Adv. Math.* 2024, to appear'
 doi: 10.1016/j.aim.2024.109735
-abstract: vmi
+abstract: Intermediate dimensions were introduced to provide a spectrum of dimensions interpolating between Hausdorff and box-counting dimensions for fractals where these differ. In particular, Bedford-McMullen carpets are a natural case for investigation, but until now only very rough bounds for their intermediate dimensions have been found. 
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2111.05625
