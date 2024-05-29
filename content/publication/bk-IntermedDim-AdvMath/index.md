@@ -15,9 +15,6 @@ where these differ. In particular, the self-affine Bedford-McMullen carpets
 are a natural case for investigation, but until now only very rough bounds
 for their intermediate dimensions have been found. In this paper, we determine
 a precise formula for the intermediate dimensions
-$dim_{\, \theta }\Lambda $ of any Bedford-McMullen carpet~$\Lambda $
-for the whole spectrum of~$\theta \in [0,1]$, in terms of a certain large
-deviations rate function. 
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2111.05625
