@@ -17,11 +17,7 @@ for their intermediate dimensions have been found. In this paper, we determine
 a precise formula for the intermediate dimensions
 $dim_{\, \theta }\Lambda $ of any Bedford-McMullen carpet~$\Lambda $
 for the whole spectrum of~$\theta \in [0,1]$, in terms of a certain large
-deviations rate function. The intermediate dimensions exist and are strictly
-increasing in~$\theta $, and $dim_{\, \theta }\Lambda $ as a function of 
-$\theta$  exhibits interesting features
-not witnessed on any previous example, such as having countably many phase
-transitions, between which it is analytic and strictly concave.
+deviations rate function. 
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2111.05625
