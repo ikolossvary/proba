@@ -1,10 +1,10 @@
+---
 title: Intermediate dimensions of Bedford–McMullen carpets with applications to Lipschitz equivalence
 authors:
-- Balázs Bárány
-- Natalia Jurga
+- Amlan Banaji
 - admin
-date: '2023-03-01'
-publishDate: '2023-03-01'
+date: '2024-29-05'
+publishDate: '2023-29-05'
 publication_types:
 - article-journal
 publication: '*Int. Math. Res. Not.* 2023(5), 4456-4500'
