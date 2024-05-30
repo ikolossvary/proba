@@ -20,6 +20,10 @@ abstract: We construct a family of planar self-affine carpets with overlaps usin
   attractor. Several examples are provided to illustrate the results, including a
   self-affine smiley, a family of self-affine continuous curves, examples with overlaps
   and an application of our results to some three-dimensional systems.
+tags:
+- Dimension
+- Planar carpet
+- Overlaps
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1807.09717
