@@ -20,6 +20,10 @@ abstract: This paper studies how long it takes the orbit of the chaos game to re
   carpets, we completely characterise the family of probability vectors that minimise
   the Minkowski dimension of Bernoulli measures. Interestingly, these vectors have
   not appeared in any other aspect of Bedford–McMullen carpets before.
+tags:
+- Chaos game
+- Cover time
+- Planar carpet
 links:
 - name: arXiv
   url: https://browse.arxiv.org/abs/2102.02047
