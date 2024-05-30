@@ -21,6 +21,10 @@ abstract: In this paper, a sponge in $\mathbb{R}^d$ is the attractor of an
   capture the growth rate of box counting quantities on sponges. We show that this
   pressure satisfies a variational principle which resembles the Ledrappier–Young
   formula for Hausdorff dimension.
+tags:
+- Dimension
+- Sponge
+- Variational formula
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2205.01043
