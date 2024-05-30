@@ -30,14 +30,9 @@ featured: false
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2401.07168
-url_pdf: https://ikolossvary.github.io/proba/static/uploads/DistrGCDArray.pdf
+url_pdf: uploads/DistrGCDArray.pdf
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
 url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -62,8 +57,4 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
