@@ -25,6 +25,7 @@ abstract: The limiting distribution of the greatest common divisor (gcd) of a $D
 tags:
 - Greatest common divisor
 - Limiting distribution
+- Prime factorisation
 featured: false
 
 links:
