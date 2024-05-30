@@ -14,7 +14,7 @@ publishDate: "2024-05-30T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: 'preprint'
 publication_short: ""
 
 abstract: The limiting distribution of the greatest common divisor (gcd) of a $D$-tuple of random natural numbers is known. We generalise this by determining an infinite product representation for the joint distribution of gcd-s in a $D$-dimensional hypercube of fixed but arbitrary side length around a $D$-tuple of random natural numbers. This allows for calculation of any statistic of the gcd-s within this hypercube, such as the number of coprime $D$-tuples.
@@ -30,7 +30,7 @@ featured: false
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2401.07168
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://ikolossvary.github.io/proba/static/uploads/DistrGCDArray.pdf
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'
